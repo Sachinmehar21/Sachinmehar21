@@ -95,7 +95,8 @@ const sachin = {
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&theme=tokyonight)
+
 
 </div>
 
