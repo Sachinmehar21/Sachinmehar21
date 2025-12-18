@@ -171,10 +171,27 @@ const sachin = {
 
 <!-- Featured Repositories -->
 <h2 align="center">⭐ Featured Projects</h2>
+
 <div align="center">
-  <a href="https://github.com/Sachinmehar21/Sachinmehar21">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachinmehar21&repo=Sachinmehar21&theme=tokyonight&hide_border=true&border_radius=10" /></a>
+  <a href="https://github.com/Sachinmehar21/AI-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachinmehar21&repo=AI-chatbot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Sachinmehar21/rideabit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachinmehar21&repo=rideabit&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Sachinmehar21/Social-media-full-stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachinmehar21&repo=Social-media-full-stack&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Sachinmehar21/counter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachinmehar21&repo=counter&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
 
 <br/>
 
@@ -223,9 +240,9 @@ const sachin = {
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   ✨ <strong>Designed with 💜 by Sachin Mehar</strong> ✨
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6C63FF&height=30&section=footer&text=Thanks%20for%20visiting!&fontSize=14&fontColor=ffffff" />
