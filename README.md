@@ -5,10 +5,10 @@
     src="./Cover.gif"
     style="display: block;"
   />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
+  <!-- <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
     <h1 style="font-size: 3.5em; margin: 0; font-weight: bold;">Sachin Mehar</h1>
     <p style="font-size: 1.5em; margin: 10px 0 0 0;">Full-Stack Developer | MERN Specialist</p>
-  </div>
+  </div> -->
 </div>
 
 <div align="center">
