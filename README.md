@@ -87,18 +87,10 @@ const sachin = {
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinmehar21&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sachinmehar21&theme=tokyonight&hide_border=true&border_radius=10)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinmehar21&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&theme=tokyonight&layout=compact" height="180" />
 </div>
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&theme=tokyonight)
-
-
-</div>
 
 <br/>
 
