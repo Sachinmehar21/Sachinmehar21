@@ -1,8 +1,16 @@
-<!-- Header Wave -->
- <img 
-      width="100%" 
-      src="./fallout.gif"
-    />
+<!-- Header Wave with Text Overlay -->
+<div align="center" style="position: relative; width: 100%;">
+  <img 
+    width="100%" 
+    src="./fallout.gif"
+    style="display: block;"
+  />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
+    <h1 style="font-size: 3.5em; margin: 0; font-weight: bold;">Sachin Mehar</h1>
+    <p style="font-size: 1.5em; margin: 10px 0 0 0;">Full-Stack Developer | MERN Specialist</p>
+  </div>
+</div>
+
 <div align="center">
   <a href="#">
     <img 
