@@ -11,15 +11,15 @@
   </div> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="#">
     <img 
       width="100%" 
       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachin%20Mehar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"
     />
   </a>
-</div>
-<p align="center">
+</div> -->
+<p align="center position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=800&pause=999999&color=00FF9C&center=true&vCenter=true&width=500&lines=Sachin+Mehar" />
 </p>
 
