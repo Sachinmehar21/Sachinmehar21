@@ -19,7 +19,7 @@
     />
   </a>
 </div> -->
-<p align="center position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=800&pause=999999&color=00FF9C&center=true&vCenter=true&width=500&lines=Sachin+Mehar" />
 </p>
 
