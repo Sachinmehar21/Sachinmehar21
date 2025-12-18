@@ -87,12 +87,16 @@ const sachin = {
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sachinmehar21&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinmehar21&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinmehar21&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sachinmehar21&theme=tokyonight&hide_border=true&border_radius=10)
+
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinmehar21&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)
+
 </div>
 
 <br/>
