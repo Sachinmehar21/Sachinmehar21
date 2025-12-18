@@ -19,11 +19,18 @@
     />
   </a>
 </div>
-
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+MERN+Specialist;UI%2FUX+Designer+%7C+Open+Source+Contributor;Building+Digital+Experiences+That+Matter+%E2%9C%A8" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=800&pause=999999&color=00FF9C&center=true&vCenter=true&width=500&lines=Sachin+Mehar" />
 </p>
+
+<!--
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+MERN+Specialist;UI%2FUX+Designer+%7C+Open+Source+Contributor;Building+Digital+Experiences+That+Matter+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+-->
+
 
 <!-- Profile Badges -->
 <div align="center">
